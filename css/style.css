@@ -1,0 +1,23 @@
+body{
+	background-image: url(https://www.localizahertz.com/brasil-site/pt-br/rede-de-agencias/PublishingImages/Recife/Teste-cabecalho.jpg);
+	font-family: sans-serif;
+	background-size: auto 100vh;
+	height: 100vh;
+}
+
+.Menu {
+	background-color: orange;	
+}
+
+a{
+	text-decoration: none;
+	color: white;
+
+}
+
+.Menu ul{
+	display: flex;
+	justify-content: space-around;
+	list-style: none;
+}
+
